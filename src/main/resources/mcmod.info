@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "chatcopy",
+  "name": "Chat Copy",
+  "description": "Adds a clickable symbol to each chat message that puts the message's content into your chat input box",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["NamelessJu (JuCraft)"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
