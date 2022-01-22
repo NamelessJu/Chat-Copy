@@ -1,0 +1,9 @@
+logs/
+run/
+build/
+.settings/
+.classpath
+.project
+Chat Copy_Client.launch
+Chat Copy_Server.launch
+*.log
