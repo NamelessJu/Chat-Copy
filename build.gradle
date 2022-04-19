@@ -21,7 +21,7 @@ plugins {
 }
 */
 version = "1.0"
-group= "com.namelessju" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group= "com.namelessju.chatcopy" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "chatcopy"
 
 minecraft {
